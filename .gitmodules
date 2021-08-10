@@ -1,0 +1,3 @@
+[submodule "vendor/args-parser"]
+	path = vendor/args-parser
+	url = git@github.com:igormironchik/args-parser.git
